@@ -4,6 +4,7 @@
 MathPad · 简约数学题目编辑器
 依赖：pip install PyQt5 PyQtWebEngine
 运行：python mathpad.py
+声明：本软件由AI制作，仅供便利和娱乐功能
 """
 
 import sys
